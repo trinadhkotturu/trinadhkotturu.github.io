@@ -10,7 +10,7 @@ Before November 4th, 2019, SQL Analytics capabilities were offered by a service 
 
 On a good day, Microsoft decided to change the name of the service to "Azure Synapse Analytics" and it still provides the same capabilities as SQL data warehouse. Just a name change!
 
-![Azure SQL Datawarehouse name change during Ignite 2019](./Images/demystify-synapse/Change_name.png)
+![Azure SQL Datawarehouse name change during Ignite 2019](./Images/demystify-synapse/Change_Name.png)
 
 In addition to the name change, Microsoft introduced a set of capabilities that bridge the gap between Big Data Analytics and SQL Data Analytics by offering a set of capabilities like, Apache Spark, Data integration capabilities and a unified Studio experience to make it easy for Data Scientists as well as Business Intelligence analysts to make sense of the data they have and eliminating silos. These set of capabilities were offered to a set of private preview customers under a resource called "Synapse workspace" offered by a service which is in preview for these capabilities. For customers, who are not in preview, they continue to use traditional data warehouse under a new name. Nothing changed for customers who are not in preview and they can run their production workloads in their data warehouse.
 
