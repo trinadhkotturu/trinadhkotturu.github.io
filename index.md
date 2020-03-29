@@ -1,4 +1,4 @@
-[# Bootstrap an Azure VM in paired region from historical data](./crr-historical-copy.md)
+[Bootstrap an Azure VM in paired region from historical data](./crr-historical-copy.md)
 
 [Identify the user/application from data lake audit logs](./audit-log-datalake.md)
 
